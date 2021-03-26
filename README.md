@@ -13,6 +13,3 @@ MySQL SQLite Redis
 GraphQL
 
 RabbitMQ
-
-# How to reach me
-comgate3@hotmail.com
