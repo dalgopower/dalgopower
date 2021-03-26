@@ -1,16 +1,18 @@
-### Hi there 👋
+# Ji Jimmy Youn
 
-<!--
-**dalgopower/dalgopower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I live and work in Seoul, South Korea.
+I am a backend software developer and am specialized with Node.js.
 
-Here are some ideas to get you started:
+# Skills
+Javascript Typescript Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js React.js
+
+MySQL SQLite Redis
+
+GraphQL
+
+RabbitMQ
+
+# How to reach me
+comgate3@hotmail.com
